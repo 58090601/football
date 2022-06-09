@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fon_circle">10dp</dimen>
+    <dimen name="txt_size">50sp</dimen>
+    <dimen name="width_100">100dp</dimen>
+    <dimen name="height_100">100dp</dimen>
+    <dimen name="margin_for_elephants_logo">50dp</dimen>
+    <dimen name="margin_for_ducks_logo">50dp</dimen>
+    <dimen name="margin_for_view_score">20dp</dimen>
+    <dimen name="width_second_dot">50dp</dimen>
+    <dimen name="mt_for_clear_button">40dp</dimen>
+    <dimen name="padding_for_button_teams">20dp</dimen>
+    <dimen name="ts_20">20sp</dimen>
+    <dimen name="width_for_button_team">220dp</dimen>
+    <dimen name="height_for_button_team">65dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="button_width">300dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+</resources>

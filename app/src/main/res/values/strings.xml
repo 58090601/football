@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Футбольное табло</string>
+    <string name="second_dot">:</string>
+    <string name="elephants">Слоны</string>
+    <string name="ducks">Уточки</string>
+    <string name="score_of_match">Счет матча</string>
+    <string name="reset_score">Обнулить счёт</string>
+    <string name="image_of_elephants">Изображение Слонов</string>
+    <string name="image_of_ducks">Изображение Уточек</string>
+</resources>
